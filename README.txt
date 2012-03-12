@@ -1,10 +1,10 @@
 ========================================================
 |                   Wordified Number                   |
 --------------------------------------------------------
-|       Installation instruction step by step          |
+|   Installation  and run instruction step by step     |
 ========================================================
 git clone git://github.com/marcinnowakowski/wordifiednumber.git
-cd ../wordifiednumber
+cd wordifiednumber
 
 # Compile and run tests for the project
 mvn test-compile
