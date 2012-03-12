@@ -7,7 +7,6 @@ git clone git://github.com/marcinnowakowski/wordifiednumber.git
 cd wordifiednumber
 
 # Compile and run tests for the project
-mvn compile test-compile
 mvn test
 
 # Import project to eclipse
